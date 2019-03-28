@@ -1,2 +1,2 @@
-id	title	link	image_link	description	price	availability	brand
-i2	Angery	https://www.urbandictionary.com/define.php?term=angery	https://raw.githubusercontent.com/zinuzoid/tmp/master/20190320_143105.jpg	Angery shitposting prop	5.00 USD	in stock	github
+id	title	link	image_link	description	price	availability	brand	condition
+  i2	Angery	https://www.urbandictionary.com/define.php?term=angery	https://raw.githubusercontent.com/zinuzoid/tmp/master/20190320_143105.jpg	Angery shitposting prop	5.00 USD	in stock	github	okish
